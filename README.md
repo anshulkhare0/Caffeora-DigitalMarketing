@@ -1,5 +1,3 @@
-# Caffeora-DigitalMarketing
-Digital Marketing Project for Review 1
 # Caffeora – Digital Marketing Project
 
 **Project Type:** Social Media Marketing Strategy  
