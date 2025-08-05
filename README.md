@@ -19,7 +19,7 @@ To increase brand visibility, engagement, and online presence for a fictional ca
 This project does not include executable code. It focuses on digital branding and strategy as part of the GUVI-HCL Digital Marketing Review.
 
 
-- Warm Regards 
-- Anshul Khare
-- 2312RES981
-- IIT Patna
+**Warm Regards** 
+**Anshul Khare**
+**2312RES981**
+**IIT Patna**
