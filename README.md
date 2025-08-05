@@ -20,6 +20,6 @@ This project does not include executable code. It focuses on digital branding an
 
 
 - Warm Regards 
-- Name:Anshul Khare
+- Anshul Khare
 - 2312RES981
 - IIT Patna
